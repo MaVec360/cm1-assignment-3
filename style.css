@@ -1,0 +1,24 @@
+
+/*element selector*/
+h1{
+    color:black;
+}
+
+body{
+    font-family: 'Kumbh Sans', sans-serif;}
+
+/* class selector */
+/* for multiple elements on a page */
+.article-title{
+    text-transform: uppercase;
+
+
+}
+
+/*id selector*/
+/* for a single element on a page*/
+#image {
+    border: solid;
+    border-width: 5px;
+    border-color: seagreen;
+}
